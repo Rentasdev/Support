@@ -1,7 +1,7 @@
 # HaojiulaiTech-Technical Support
 
 
-<img src="https://www.meinbergglobal.com/images/icons/svg/blue/user_headset.svg" width="100" height="100">
+<img src="https://www.meinbergglobal.com/images/icons/svg/blue/user_headset.svg" width="200" height="200">
 
 ## Ideas
 If you have good creative design or mobile development suggestions, please don hesitate to share with via email address below.
