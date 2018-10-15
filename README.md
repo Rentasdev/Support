@@ -1,6 +1,6 @@
 # HaojiulaiTech-Technical Support
 
-![alt text](https://www.meinbergglobal.com/images/icons/svg/blue/user_headset.svg)
+![alt text](https://www.meinbergglobal.com/images/icons/svg/blue/user_headset.svg| width=100)
 
 
 ## Ideas
